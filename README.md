@@ -14,6 +14,8 @@ The dataset provided for the challenge consists of a list of outfits described b
 * Product images: Each product will have a single image with the item photographed with a frontal view in a white background. The images do not contain any people.
 * Fashion outfits: Table with approximately 300,000 outfits.
   
+ <hr>
+  
 ## Final Standings
 | Rank | Participant team	| FITB |
 | --- | --- | --- |
